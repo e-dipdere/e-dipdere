@@ -29,7 +29,6 @@ Demo account: user: demo@doktai.com / emredemo
 
 <div class="login_result"></div>
 <div class="text-center mb-3 position-relative">
-<img src="/EmreExample/images/login/login.png" class="w-25"> 
 <h5 class="mb-0"><span>Kullanıcı Girişi</span></h5> 
 <span class="d-block text-muted"></span>
 </div>
