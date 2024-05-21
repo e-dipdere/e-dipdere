@@ -16,9 +16,9 @@ Demo account: user: demo@doktai.com / emredemo
 ![image](https://github.com/e-dipdere/e-dipdere/assets/169443178/38a35df8-39ca-4996-8eef-bcf97ea49030)
 
 
-# Bootstrao Code Example
+# Bootstrap Code Example
 
-`<div class="content-wrapper navbar-top navbar-bottom">
+<div class="content-wrapper navbar-top navbar-bottom">
 <div class="content d-flex justify-content-center align-items-center">
 <div class="login-form wmin-sm-400">
 <div class="login-bg">
@@ -84,4 +84,4 @@ Devam ederek sitemizin <a href="/page/uyelik-sozlesmesi-ve-cerez-politikasi" tar
 </div>
 </div>
 </div>
-</div>`
+</div>
