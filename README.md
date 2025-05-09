@@ -1,4 +1,4 @@
-Hi there, I'm Emre 👋
+Hi there, I'm @e-dipdere. 👋
 - 👀 I’m interested in PHP Coding.
 - 🌱 I’m currently learning AI.
 - 🔭 I’m currently working on TKM Akademi.
